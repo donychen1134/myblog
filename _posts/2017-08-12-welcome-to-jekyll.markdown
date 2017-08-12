@@ -19,7 +19,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-{% highlight go linenos %}
+{% highlight go %}
 // test func
 func Test() {
 	fmt.Println("test")
