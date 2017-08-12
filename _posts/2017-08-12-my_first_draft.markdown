@@ -2,7 +2,6 @@
 layout: post 
 title:  "My first draft"
 date:   2017-08-12 10:28:00 +0800
-categories: myblog
 excerpt_separator: <!--abstract-->
 ---
 
