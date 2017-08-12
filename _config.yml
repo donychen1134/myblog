@@ -17,12 +17,10 @@ title: 小黑胖子的博客
 email: donychen1134@163.com
 description: > # this means to ignore newlines until "baseurl:"
   大家好，我是小黑胖子。
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  donychen1134
-github:
- is_project_page: false
 
 # Build settings
 markdown: kramdown
