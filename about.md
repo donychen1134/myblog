@@ -6,7 +6,7 @@ permalink: ./about/
 
 ![小黑胖子logo](./assets/酷企鹅.png)
 
-大家好，我是小黑胖子。一个想投机倒把的伪SRE。
+大家好，我是小黑胖子。一个投机倒把未遂的伪SRE。
 
 行业：IT
 
