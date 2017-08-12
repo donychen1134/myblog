@@ -18,9 +18,9 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
 
-        <span class="post-meta">日期: {{ post.date | date: date_format }}</span>
+        <span class="post-meta">Date: {{ post.date | date: date_format }}</span>
         <p>{{ post.excerpt }}</p>
-        <span class="post-meta">标签: {{ post.tags | array_to_sentence_string }}</span>
+        <span class="post-meta">Tags: {{ post.tags | array_to_sentence_string }}</span>
         
       </li>
     {% endfor %}
