@@ -3,7 +3,7 @@ layout: post
 title:  "由一个rsync问题引发的一系列学习"
 date:   2017-08-20 19:28:00 +0800
 excerpt_separator: <!--abstract-->
-tags: 无
+tags: rsync chkconfig systemd rc.d
 ---
 
 以前对rsync命令的印象，就是可以很方便传数据，具体如何搭建、使用，以及安全方面，知道的比较少。最近帮同事处理rsyncd.conf相关问题，也就顺便研究了下。这一下子不得了，发现好多东西似懂非懂，按下葫芦浮起瓢，就一并都看看吧。rsync、守护进程、xinetd、/etc/init.d/*、checkconfig、rc.local等。<!--abstract-->
